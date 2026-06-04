@@ -1,0 +1,12 @@
+# Format:
+# code|email|password
+#
+# In addon:
+# Fshare account online URL = Raw GitHub URL of this file
+# Fshare account name/code = khach01, khach02, ...
+#
+# Add one account per line. Lines starting with # are ignored.
+
+khach01|acc1@gmail.com|pass1
+khach02|acc2@gmail.com|pass2
+khach03|acc3@gmail.com|pass3
