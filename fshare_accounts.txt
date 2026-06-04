@@ -7,6 +7,9 @@
 #
 # Add one account per line. Lines starting with # are ignored.
 
-khach01|acc1@gmail.com|pass1
-khach02|acc2@gmail.com|pass2
-khach03|acc3@gmail.com|pass3
+khach01|tongbinhnguyen9090@gmail.com|Phuoc@3011
+khach02|joseph_nower@yahoo.com|Nickyboy521@
+khach03|daotrongkhoa2010@gmail.com|Kh0@1988
+khach04|hhother159@gmail.com|Mrbusy159!
+khach05|nguyenphuongcorp@yahoo.com|Maderato2302
+khach06|thien.nq412@gmail.com|123fIGHT123
