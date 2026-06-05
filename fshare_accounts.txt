@@ -7,7 +7,7 @@
 #
 # Add one account per line. Lines starting with # are ignored.
 
-anhtrixipho|tongbinhnguyen9090@gmail.com|Phuoc@3011
+anhtraixipho|tongbinhnguyen9090@gmail.com|Phuoc@3011
 trungdeptrai|joseph_nower@yahoo.com|Nickyboy521@
 trung|daotrongkhoa2010@gmail.com|Kh0@1988
 dantruong|hhother159@gmail.com|Mrbusy159!
