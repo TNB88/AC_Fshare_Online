@@ -2,8 +2,8 @@
 # code|email|password
 #
 # In addon:
-# Fshare account online URL = Raw GitHub URL of this file
-# Fshare account name/code = khach01, khach02, ...
+# F account online URL = Raw GitHub URL of this file
+# F account name/code = khach01, khach02, ...
 #
 # Add one account per line. Lines starting with # are ignored.
 
